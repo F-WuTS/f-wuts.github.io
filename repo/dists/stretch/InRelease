@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: f-wuts.github.io/repo
+Codename: stretch
+Date: Sat, 03 Mar 2018 22:23:56 UTC
+Architectures: armhf
+Components: main
+Description: F-WuTS Debian package repository
+MD5Sum:
+ ef8ec267d2b4d2dba4c9efb24040f0a0 3701 main/binary-armhf/Packages
+ e0df47618d5af1c868114754eae7d68c 1271 main/binary-armhf/Packages.gz
+ eaad84ebe1bad403b19f27f24db490e1 112 main/binary-armhf/Release
+SHA1:
+ 323dbaa5bbf51b28f38d6fbfe710fb2bce500f42 3701 main/binary-armhf/Packages
+ 0bda168d7562bc5c3b3a356d8c766c0e36d82061 1271 main/binary-armhf/Packages.gz
+ 87cfc30ffaf93918ddd72080edecc8302f044646 112 main/binary-armhf/Release
+SHA256:
+ bf60cbfb09127c8f6aa98ec43f750054b9f252d321ad231d6ecca1386316d3ac 3701 main/binary-armhf/Packages
+ 566c5f4348f9e6db6bd582c570ee792e986617ef9062e0481c2fb48b3a583026 1271 main/binary-armhf/Packages.gz
+ 6b9dce7059e9476d1a2c2c5ef4a9871f8aa87c120101b32ec5c794ddf7eaa0eb 112 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE6TaNXz3i6pEPSK8EEvaNYlCc2YsFAlqbIH0ACgkQEvaNYlCc
+2YuGIgv+Px9JZBo5fSscHPUP7Y3d+HZl5eL4x5QzsGS85Bk6HvkzUbI1IPtWlliA
+Lrp6GEUdjLSa3tD/Bnnc61uLO8ZBcSWR38S1U3TCPThieKbvJ1SRXKuZfx2UdF+F
+mzuuGySSuZEembUUY/Bc78FbONHjfKCa4XeVyys+xchFTlMfx2QtEPuYdN3uhYeq
+qlrMN0cQkE8pe3szSq6+8Tcrk70uhFNwrLjWzU39KVW1oOAkDvBfsSNYFbIR/Brd
+rpbsxIHR1NfdlJLPePR7uzPMLGQyBixVjoQ3m4r6WccjJ5UdNnRuX6fQ3Yo4C5wb
+es1BT7hqbKhFR9EHRsvpPnwmXYnSgMqjoeTP0hXWUoGjG7piaWoeVRhzSej6rYOX
+V5mGFYzsdIAvgrQuyZhydUauRqfXwA2cuCs8IuMy+pJ/baO4any30GBKOzkGzBMc
+e8zWaiNprUiNMHQZLIW1tVpUOwSSjrJOWTneegD+vlB4kItJUXuBFENJmzVWhQ4b
+OpCbnsqz
+=AHqk
+-----END PGP SIGNATURE-----

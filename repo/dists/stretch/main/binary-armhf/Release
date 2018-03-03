@@ -1,0 +1,4 @@
+Component: main
+Origin: f-wuts.github.io/repo
+Architecture: armhf
+Description: F-WuTS Debian package repository

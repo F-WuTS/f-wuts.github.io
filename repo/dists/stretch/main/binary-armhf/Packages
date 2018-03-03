@@ -1,0 +1,127 @@
+Package: botui
+Installed-Size: 3172
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libcv-dev,libqt4-dev,pcompiler
+Provides: botui
+Priority: extra
+Section: wallaby
+Filename: pool/main/b/botui/botui_20180303-1_armhf.deb
+Size: 1403402
+SHA256: f9107e1a904709f4fa8660145dde140f33746cb2b51436a49bb1a5056419c08a
+SHA1: 11850ff018a216d36e7a7b5d42c0f32a1864b169
+MD5sum: dbb4df708d6b9d178fbf5a7314943bf1
+Description: botui for Wallaby
+
+Package: bsonbind
+Installed-Size: 224
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Provides: bsonbind
+Priority: extra
+Section: wallaby
+Filename: pool/main/b/bsonbind/bsonbind_20180303-1_armhf.deb
+Size: 34178
+SHA256: f4407b2e8bded7689f26f0dee0bcc3bcc8c29d7d4c443a2b1e3cbe2c3d032cc7
+SHA1: 9d2f8d38ce415ff32a5c6b68569262b517468ccb
+MD5sum: d7da389294bfe4ea8fefb47394517a5b
+Description: bsonbind for Wallaby
+
+Package: daylite
+Installed-Size: 356
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libbson-dev,libboost-dev,bsonbind
+Provides: daylite
+Priority: extra
+Section: wallaby
+Filename: pool/main/d/daylite/daylite_20180303-1_armhf.deb
+Size: 75928
+SHA256: bdd3d8bb2e7028a54f722b02df0c57f12f87123000027d206e0288c4594e0655
+SHA1: 8deb8ac2ab18bbbf8079dd0b11e4be15556e6dc5
+MD5sum: c61cb35ee88960eba9bf8cdbbf54b79d
+Description: daylite for Wallaby
+
+Package: libaurora
+Installed-Size: 332
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libpng-dev,zlib1g-dev
+Provides: libaurora
+Priority: extra
+Section: wallaby
+Filename: pool/main/liba/libaurora/libaurora_20180303-1_armhf.deb
+Size: 53704
+SHA256: f97a3163b425119b494e7238731375f1e1cd13e38aeb9c347951b5a6844d5c21
+SHA1: ae38354d22fba20fdada5b65af6673bf74b83497
+MD5sum: 4ce1f48f099235e23481c118e9d989cc
+Description: libaurora for Wallaby
+
+Package: libbotball
+Installed-Size: 56
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libaurora,libwallaby
+Provides: libbotball
+Priority: extra
+Section: wallaby
+Filename: pool/main/libb/libbotball/libbotball_20180303-1_armhf.deb
+Size: 6646
+SHA256: 50a78d681d5a8f4b099ead59695afe2f7932565c36a210951000b5ae22e995fa
+SHA1: a0d17e45bdf5287016856a83ff48101d0b6fd590
+MD5sum: 807b62941f3c54fd80bc61e2ce002540
+Description: libbotball for Wallaby
+
+Package: libkar
+Installed-Size: 156
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libqt4-dev
+Provides: libkar
+Priority: extra
+Section: wallaby
+Filename: pool/main/libk/libkar/libkar_20180303-1_armhf.deb
+Size: 29202
+SHA256: ebb32934e66a1c88d8da5ecaa520c6a8cc02ff6ac9c2cd476700bc3152876c82
+SHA1: 5e5538f9f980823e6f9b1868533740780b3f423b
+MD5sum: 3dc1144488f7e860fbbcd59f552bc5e1
+Description: libkar for Wallaby
+
+Package: libwallaby
+Installed-Size: 1368
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libcv-dev,libjpeg-dev
+Provides: libwallaby
+Priority: extra
+Section: wallaby
+Filename: pool/main/libw/libwallaby/libwallaby_20180303-1_armhf.deb
+Size: 181218
+SHA256: 52d58df9b192fcb1c41327352f8a092310eb79a9213f6e2334aefa8c384ab6e8
+SHA1: d26f1f981acf8ba6ee742a3693418b4ce5e3a856
+MD5sum: 175d407e6c99f39c87ac87b4310b9f90
+Description: libwallaby for Wallaby
+
+Package: pcompiler
+Installed-Size: 364
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20180303-1
+Depends: libqt4-dev,libkar
+Provides: pcompiler
+Priority: extra
+Section: wallaby
+Filename: pool/main/p/pcompiler/pcompiler_20180303-1_armhf.deb
+Size: 69336
+SHA256: 9c19e720821694a94838f3d601a37edc4d53537bd77913ea9df8be0d282ba76a
+SHA1: f38038c19dcc5d8666ff46faac0d0caa1adab050
+MD5sum: cba0b0063b89569286f7af0b5332e23c
+Description: pcompiler for Wallaby
+

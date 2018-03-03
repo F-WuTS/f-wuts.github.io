@@ -1,0 +1,6 @@
+Origin: f-wuts.github.io/repo
+Codename: stretch
+Architectures: armhf
+Components: main
+Description: F-WuTS Debian package repository
+SignWith: E9368D5F3DE2EA910F48AF0412F68D62509CD98B
