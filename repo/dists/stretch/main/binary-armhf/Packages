@@ -97,16 +97,16 @@ Package: libwallaby
 Installed-Size: 1368
 Maintainer: me@christoph-heiss.me
 Architecture: armhf
-Version: 20180303-1
-Depends: libcv-dev,libjpeg-dev
+Version: 20180407-1
+Depends: libcv-dev,libjpeg-dev,libopencv-photo2.4v5
 Provides: libwallaby
 Priority: extra
 Section: wallaby
-Filename: pool/main/libw/libwallaby/libwallaby_20180303-1_armhf.deb
-Size: 181218
-SHA256: 52d58df9b192fcb1c41327352f8a092310eb79a9213f6e2334aefa8c384ab6e8
-SHA1: d26f1f981acf8ba6ee742a3693418b4ce5e3a856
-MD5sum: 175d407e6c99f39c87ac87b4310b9f90
+Filename: pool/main/libw/libwallaby/libwallaby_20180407-1_armhf.deb
+Size: 180952
+SHA256: 439b6398b5c63c151138f8af77a32569d247b9c27ca5e0dc7856b488f9ab6238
+SHA1: 3372bd094345a60bf18c7a590aaf45e7c9394280
+MD5sum: 912ca9a3b09b75e5630e4b39d1762ad9
 Description: libwallaby for Wallaby
 
 Package: pcompiler
