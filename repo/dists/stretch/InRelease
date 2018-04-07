@@ -3,33 +3,33 @@ Hash: SHA512
 
 Origin: f-wuts.github.io/repo
 Codename: stretch
-Date: Sat, 07 Apr 2018 16:06:00 UTC
+Date: Sat, 07 Apr 2018 20:22:22 UTC
 Architectures: armhf
 Components: main
 Description: F-WuTS Debian package repository
 MD5Sum:
- 4da0e2f5647086db58309267d9d36d1b 3722 main/binary-armhf/Packages
- fa595711f07025a5e9666968d4fd8e43 1293 main/binary-armhf/Packages.gz
+ 88754251d71975b088b839432c82fec6 5957 main/binary-armhf/Packages
+ cb2de80d516eadf10a96df4e1f8bb7a9 2036 main/binary-armhf/Packages.gz
  eaad84ebe1bad403b19f27f24db490e1 112 main/binary-armhf/Release
 SHA1:
- 430d3072e592313ec24c5517fcb0929eb3e17df5 3722 main/binary-armhf/Packages
- 25114da2164a3e0d0c7f747a745fb29e919991e5 1293 main/binary-armhf/Packages.gz
+ ad9b95f28edbaec2ffe3a5415357b6035ce47852 5957 main/binary-armhf/Packages
+ c14d66bc39de8e799a8e6ff8b60fc33c00308b43 2036 main/binary-armhf/Packages.gz
  87cfc30ffaf93918ddd72080edecc8302f044646 112 main/binary-armhf/Release
 SHA256:
- bf47cd6d74290112a91e41a6e8335632d48eb87505a743fc2080c0cd7ab195dd 3722 main/binary-armhf/Packages
- c79b27a452d3bed719a478f3848ccf8487aedb20028b7e890783d3c625c1794e 1293 main/binary-armhf/Packages.gz
+ 8b0e6160ec3e7a0647f140e8d117c63b8d43615e2a00b081fc0482aa3ebb102c 5957 main/binary-armhf/Packages
+ 53de1cddb3e3cff05bcae70bdcfc8cd9947f743bc9f6967c2b2109405bbd1634 2036 main/binary-armhf/Packages.gz
  6b9dce7059e9476d1a2c2c5ef4a9871f8aa87c120101b32ec5c794ddf7eaa0eb 112 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE6TaNXz3i6pEPSK8EEvaNYlCc2YsFAlrI7GwACgkQEvaNYlCc
-2YvFXQv6A+s5ITWiLp6b8+OwF1wNYF6EUYp2eXvp6fllEEWTuJFPRuEawzIlTkND
-pM5Ut4/E9UFpkP9CgahOq9bH8BvS+e5pTZgF2fZFbT155H9cx+tPqVTe2K5H9IdY
-RC6rjDa50Hw/DsZLuR6+hrqXWbhBFtUgUZ1f8nakzprE8mAgflUGLCIMcg0JEdbM
-5k4D1ONeESnfk/DSAtWkAvKqiL5l1byPIwqEVqjCO4JeddG97SF1ac10CG84m4IZ
-6jyt2/E3LA0R/BXK8Ss72b8QJdhuTvQcQGccRrSBVpaZ/5aodchKAE0/hb/lMGXs
-sQO618oEWiBBH9gavALlolbUmtpeKPK+252ZWiUfm9wa4kcVbemyhQu+q33svfDI
-O3/LwkhnF6ZnuyiaPPo24plquUcC9iO6kYHGSX5PAhkCtpTklp7dzoGls43iTZCt
-wJeVbt7XAUbG9Ejlne1vsHVIHClXUrB/sBU6yG6N3tadAdtEMuDt24ybco9SGWHt
-6ARB5FBI
-=6hC5
+iQGzBAEBCgAdFiEE6TaNXz3i6pEPSK8EEvaNYlCc2YsFAlrJKIQACgkQEvaNYlCc
+2YtRAQwAiWzxSI6jSQ5d4IJ4ImeD4+KZXnKgDP7p5VtK5F2jR9SOgwbPTW52Hc7+
+lzl0zsh5a04xSqsIQSF5vWH/kwnffvRELYLc7O1nCBXMW78m4jYA3K6IWsNJ0LEo
+uIZM/l4e55KYBlIaV4FAHBwQSZRK6J0k4obyZ4i1BzIFWWuMluRqGTzwXGhcZ0En
+aB2P+8vUSuuNoDN2/StcD+GZ6bR3rxkwE1X3cFiYOvIk7Yifi/s4VTJzwT0zd0/H
+ACAPY9wLMBAB8fozCGet8psA5ZZiG0UqMwlxr06bd6mxxHNUbHwE/1SGfCAqgAAM
+iyFk5D7skN++7DHncpobzxTM4JdK4wZpl8KojYYoAF/mP9gKoG/Q1AG6vCC7sin/
+yJYXHaDYvOYA7KhBa1lgScIzYaS9jbWzFp5ZMW3pmsSSPFZdCwAx9Y1B3LirlUmG
+Q8pqnpSDkh2KD7GPRM1dIM9Ry6Xqg4aIv1/3wt2srnn3kfS5rU/X9Ry9BBzsU4jD
+NzvNfzRG
+=8Pl9
 -----END PGP SIGNATURE-----
