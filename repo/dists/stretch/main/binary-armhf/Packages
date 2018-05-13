@@ -2,16 +2,16 @@ Package: botui
 Installed-Size: 3172
 Maintainer: me@christoph-heiss.me
 Architecture: armhf
-Version: 20180303-1
+Version: 20180513-1
 Depends: libcv-dev,libqt4-dev,pcompiler
 Provides: botui
 Priority: extra
 Section: wallaby
-Filename: pool/main/b/botui/botui_20180303-1_armhf.deb
-Size: 1403402
-SHA256: f9107e1a904709f4fa8660145dde140f33746cb2b51436a49bb1a5056419c08a
-SHA1: 11850ff018a216d36e7a7b5d42c0f32a1864b169
-MD5sum: dbb4df708d6b9d178fbf5a7314943bf1
+Filename: pool/main/b/botui/botui_20180513-1_armhf.deb
+Size: 1403442
+SHA256: 507e3e28ddcb686e2daef4f0d79fe16609fc18eaa814fc2d165c81843c2d0c99
+SHA1: 33df6957fba3e74038e3c59eb85736abf870fb84
+MD5sum: d550c847364d87d45b3f907ba453d188
 Description: botui for Wallaby
 
 Package: bsonbind
